@@ -1,1 +1,4 @@
 This is file3.
+
+This file is edited from branch2.
+
